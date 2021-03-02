@@ -48,3 +48,10 @@ The following types should be used as applicable `rel` types in the
 | Type                | Description |
 | ------------------- | ----------- |
 | fancy-rel-type      | This link points to a fancy resource. |
+
+## Contributing
+
+All contributions are subject to the
+[STAC Specification Code of Conduct](https://github.com/radiantearth/stac-spec/blob/master/CODE_OF_CONDUCT.md).
+For more information about how to contribute to this repository, see the
+[contributing guide](./CONTRIBUTING.md)
