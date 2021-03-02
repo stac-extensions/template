@@ -6,6 +6,7 @@
 - **Scope:** Item, Collection
 - **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Proposal
 - **Owner**: @your-gh-handles @person2
+- [**Changelog**](./CHANGELOG.md)
 
 This is the place to add a short introduction.
 
