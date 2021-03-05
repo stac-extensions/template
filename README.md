@@ -54,7 +54,7 @@ The following types should be used as applicable `rel` types in the
 All contributions are subject to the
 [STAC Specification Code of Conduct](https://github.com/radiantearth/stac-spec/blob/master/CODE_OF_CONDUCT.md).
 For contributions, please follow the
-[STAC specification contributing guide](https://github.com/radiantearth/stac-spec/CONTRIBUTING.md) Instructions
+[STAC specification contributing guide](https://github.com/radiantearth/stac-spec/blob/master/CONTRIBUTING.md) Instructions
 for running tests are copied here for convenience.
 
 ### Running tests
