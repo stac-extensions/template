@@ -1,7 +1,7 @@
 # Template Extension Specification
 
 - **Title:** Template
-- **Identifier:** <https://stac-extensions.github.io/template/v1.0.0/schema.json>
+- **Identifier:** <https://stac-extensions.github.io/template/v0.0.1/schema.json>
 - **Field Name Prefix:** template
 - **Scope:** Item, Collection
 - **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Proposal
