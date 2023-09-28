@@ -19,6 +19,7 @@ This is the place to add a short introduction.
 ## Fields
 
 The fields in the table below can be used in these parts of STAC documents:
+
 - [ ] Catalogs
 - [x] Collections
 - [x] Item Properties (incl. Summaries in Collections)
