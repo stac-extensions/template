@@ -1,4 +1,6 @@
 plugins:
+# GitHub Flavored Markdown
+  - remark-gfm
 # Check links
   - validate-links
 # Apply some recommended defaults for consistency
