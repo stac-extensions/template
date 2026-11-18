@@ -11,6 +11,13 @@ This document explains the Template Extension to the [SpatioTemporal Asset Catal
 
 This is the place to add a short introduction.
 
+### Purpose and boundaries
+
+Say in a few sentences what the extension is for and, if applicable, what it does not cover.
+Name the extensions or standards that cover the adjacent subjects.
+This helps contributors and reviewers to decide if a new field belongs here.
+Remove this section if the introduction already makes this clear.
+
 - Examples:
   - [Item example](examples/item.json): Shows the basic usage of the extension in a STAC Item
   - [Collection example](examples/collection.json): Shows the basic usage of the extension in a STAC Collection
